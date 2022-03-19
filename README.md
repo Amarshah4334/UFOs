@@ -1,2 +1,3 @@
+# The Truth is Out There
 # UFOs
-Creating a JavaScript array table fully dynamic, react to user input, and then into an HTML file.
+Build a dynamic table, react to user input using JavaScript and incorporate it into a web site using HTML, CSS and Bootstrap.
