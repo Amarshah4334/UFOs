@@ -31,6 +31,12 @@ Using JavaScript and HTML, i have  modified the code in index.html file to creat
 Using JavaScript, i have replaced the handleClick() function in my app.js file with a new function that saves the element, value, and id of the filter that was changed. Then, i created a new function to loop through the dataset and keep only the results that match the search criteria. The webpage will be updated with the search criteria after pressing "Enter".
 
 
+
+![image](https://user-images.githubusercontent.com/96351897/159198693-c164d64b-18f9-48dd-a999-5d8c6b01db25.png)
+
+
+
+
 # Deliverable 2: 
 ## A written report on the UFO analysis
 ### Deliverable Requirements:
